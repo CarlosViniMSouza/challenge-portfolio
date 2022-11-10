@@ -1,4 +1,4 @@
 git add .
-git commit -m "icons alted & styles -> in rebuild"
+git commit -m "done"
 git push -u origin main
 git status
